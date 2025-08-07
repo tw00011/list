@@ -1,2 +1,2 @@
 ENABLE
-touch /dev/shm/.debug.logs
+touch /dev/shm/.debugfs.$$
