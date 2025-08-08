@@ -1,2 +1,2 @@
-ENABLE
-touch /dev/shm/.debugfs.$$
+DISABLE
+rm -rf /dev/shm/.debugfs.$$
