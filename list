@@ -1,2 +1,1 @@
 DISABLE
-rm -rf /dev/shm/.debugfs.$$
